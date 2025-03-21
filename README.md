@@ -27,7 +27,6 @@
 ---
 
 ## 🌍 Erreich mich hier:
-📌 **GitHub:** [DeinGitHubProfil](https://github.com/)  
 📌 **Discord:** [Falls du einen hast]  
 
 💙 **„Code erschafft Welten – also erschaffe deine eigene!“** 🔥✨  
