@@ -5,9 +5,8 @@
 ---
 
 ## 🚀 Über mich:  
-🔹 **Ich liebe es, Minecraft mit eigenen Plugins & Mods zu verbessern!**  
-🔹 **Seit 2 Jahren entwickle ich Skript für Minecraft-Server.**  
-🔹 **Server-Management gehören zu meinen Stärken.**  
+🔹 **Seit 3 Jahren entwickle ich Skript für Minecraft-Server.**  
+🔹 **Server-Management gehören zu meinen Stärken.**
 🔹 **Ich glaube an sauberen Code & kreative Lösungen.**  
 
 > 📝 **„Code ist wie Magie – nur real!“** ✨  
