@@ -1,6 +1,6 @@
 # 🌟 Hey, ich bin Faling!  
 
-🎮 **Minecraft Developer** | 💻 **Seit 2 Jahren leidenschaftlicher Programmierer** | 🚀 **Gaming & Code Enthusiast**  
+🎮 **Skript Developer** | 💻 **Seit 2 Jahren leidenschaftlicher Programmierer** | 🚀 **Gaming & Code Enthusiast**  
 
 ---
 
