@@ -1,13 +1,13 @@
-# 🌟 Hey, ich bin Faling!  
+# 🌟 Hey, ich bin Atrax!  
 
-🎮 **Skript Developer** | 💻 **Seit 2 Jahren leidenschaftlicher Programmierer** | 🚀 **Gaming & Code Enthusiast**  
+🎮 **FIveM Frontend** | 💻 **Seit 2 Jahren leidenschaftlicher Programmierer** | 🚀 **Gaming & Code Enthusiast**  
 
 ---
 
 ## 🚀 Über mich:  
 🔹 **Ich liebe es, Minecraft mit eigenen Plugins & Mods zu verbessern!**  
-🔹 **Seit 2 Jahren entwickle ich mit Java & Skript für Minecraft-Server.**  
-🔹 **Server-Management & Performance-Optimierung gehören zu meinen Stärken.**  
+🔹 **Seit 2 Jahren entwickle ich Skript für Minecraft-Server.**  
+🔹 **Server-Management gehören zu meinen Stärken.**  
 🔹 **Ich glaube an sauberen Code & kreative Lösungen.**  
 
 > 📝 **„Code ist wie Magie – nur real!“** ✨  
@@ -17,16 +17,15 @@
 ---
 
 ## ⚡ Was ich kann:
-✅ **Minecraft-Plugins (Spigot, Paper, BungeeCord)**  
+✅ **HTML, CSS, Lua Coming Soon...**  
 ✅ **Skript für schnelle & einfache Automatisierungen**  
-✅ **Java für leistungsstarke & komplexe Plugins**  
-✅ **Server-Management & Performance-Tuning**  
+✅ **Server-Management**  
 
 > 💡 **„Ein guter Entwickler sieht nicht nur Fehler – er sieht Möglichkeiten.“** 🚀  
 
 ---
 
 ## 🌍 Erreich mich hier:
-📌 **Discord:** [Falls du einen hast]  
+📌 **Discord:**
 
 💙 **„Code erschafft Welten – also erschaffe deine eigene!“** 🔥✨  
