@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 Über mich:  
-🔹 **Seit 3 Jahren entwickle ich Skript für Minecraft-Server.**  
 🔹 **Server-Management gehören zu meinen Stärken.**
 🔹 **Ich glaube an sauberen Code & kreative Lösungen.**  
 
