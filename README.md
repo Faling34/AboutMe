@@ -18,7 +18,7 @@ I'm a passionate **FiveM developer** based in Germany 🇩🇪, creating immersi
 - 🔧 Develop custom **FiveM scripts** and **resources** using <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 - 🧠 Focus on performance, modularity, and player experience
 - 🌍 Build and manage **RP servers** with unique mechanics using
-- 🛠️ Create immersive UIs with <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img
+- 🛠️ Create immersive UIs with <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 
 ## 📦 Tools I Use
 
