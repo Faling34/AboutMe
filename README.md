@@ -17,14 +17,13 @@ I'm a passionate **FiveM developer** based in Germany 🇩🇪, creating immersi
 
 - 🔧 Develop custom **FiveM scripts** and **resources** using <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 - 🧠 Focus on performance, modularity, and player experience
-- 🌍 Build and manage **RP servers** with unique mechanics using <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-- 🛠️ Create immersive UIs with <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+- 🌍 Build and manage **RP servers** with unique mechanics using
+- 🛠️ Create immersive UIs with <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img
 
 ## 📦 Tools I Use
 
 - 🧰 Version control with <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 - ⚙️ Automation via <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-- 🗃️ Database management with <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 
 ## 📫 Connect with Me
 
