@@ -1,26 +1,27 @@
-<h1 align="center">♻️ ps_trash</h1>
-<p align="center">Ein modernes Mülleimer-System für FiveM (ESX)</p>
-
+<!-- Tech Stack Icons -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FiveM-Ready-43b581?style=for-the-badge&logo=lua" />
-  <img src="https://img.shields.io/badge/ESX-Supported-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/MIT License/ps_trash?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+# 👋 Hey, I'm Chris!
 
+Welcome to my GitHub profile!  
+I'm a passionate **FiveM developer** based in Germany 🇩🇪, creating immersive multiplayer experiences with Lua and custom server-side logic.
 
-👋 Hey, I'm Faling
-Hobby Developer
-🖥️ Tech Stack
-🚀 Languages:
-HTML CSS 
+## 🚓 What I Do
 
-⚡ Specialties
-🎯 Frontend & UI/UX
-🎯 UI Designer
+- 🔧 Develop custom **FiveM scripts** and **resources**
+- 🧠 Focus on performance, modularity, and player experience
+- 🌍 Build and manage **RP servers** with unique mechanics
+- 🛠️ Work with **Lua**, **HTML/CSS**
 
-🛠️ Tools & Design
-VS Code, Figma
+## 📫 Connect with Me
 
-📬 Contact
-Discord
+- 💬 Discord: `Soon`  
+
+## ⚡ Fun Fact
+
+I believe great RP scripts should feel invisible—seamless, intuitive, and immersive.  
+If players forget they're using a script, I've done my job right. 🎮
